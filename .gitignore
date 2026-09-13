@@ -24,3 +24,6 @@ outputs/*.pkl
 # OS files
 .DS_Store
 Thumbs.db
+
+#other project
+test1.ipynb
