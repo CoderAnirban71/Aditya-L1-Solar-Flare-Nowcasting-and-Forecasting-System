@@ -208,7 +208,7 @@ Open browser: `http://localhost:8000`
 - **Live graphs** — SoLEXS and HEL1OS X-ray flux with logarithmic Y-axis and scrolling time window
 - **Now line** — white vertical line showing current replay position
 - **Nowcast panel** — real-time flare detection with glowing alert on detection
-- **Forecast panel** — ML probability gauge (0–100%), dynamic lead time sentence (e.g. "In ~11 min — around 13:23:00 UTC")
+- **Forecast panel** — ML probability gauge (0–100%), dynamic lead time sentence (e.g. "In ~5-15 min — around 13:23:00 UTC")
 - **Rolling detection cards** — upcoming flares with intensity-based red coloring
 - **Live detected flares** — running log of nowcasted events
 - **Event database** — full flare catalog sorted by significance
